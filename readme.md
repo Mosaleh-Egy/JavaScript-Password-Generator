@@ -23,7 +23,10 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
+## Screenshot
+![output screen](./Capture.PNG)
 ## Github Link:
 https://github.com/Mosaleh-Egy/JavaScript-Password-Generator
 
 ## Live Link:
+https://mosaleh-egy.github.io/JavaScript-Password-Generator/
