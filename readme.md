@@ -24,5 +24,6 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## Github Link:
+https://github.com/Mosaleh-Egy/JavaScript-Password-Generator
 
 ## Live Link:
